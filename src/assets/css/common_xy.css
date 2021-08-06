@@ -1,0 +1,61 @@
+.noSelect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.modalDrage_xy .ivu-modal {
+  position: fixed;
+  top: 100px;
+}
+.modalDrage_xy .ivu-modal .ivu-modal-header {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.modalDrage_xy .ivu-modal .ivu-modal-header p,
+.modalDrage_xy .ivu-modal .ivu-modal-header .ivu-modal-header-inner {
+  font-size: 17px;
+}
+.modalDrage_xy .ivu-modal .ivu-form .ivu-form-item-label {
+  text-align: left;
+  font-size: 15px;
+  width: 100%;
+}
+.modalDrage_xy .ivu-modal .ivu-form .ivu-form-item-label:before {
+  font-size: 16px;
+}
+.modalDrage_xy .ivu-modal .ivu-form .ivu-select-single .ivu-select-selection {
+  height: 38px;
+}
+.modalDrage_xy .ivu-modal .ivu-form .ivu-select-placeholder,
+.modalDrage_xy .ivu-modal .ivu-form .ivu-select-selected-value {
+  height: 36px;
+  line-height: 36px;
+  font-size: 13px;
+}
+.modalDrage_xy .ivu-modal .ivu-form .ivu-input {
+  height: 38px;
+  font-size: 13px;
+}
+.modalDrage_xy .ivu-modal .ivu-form textarea.ivu-input {
+  font-size: 14px;
+}
+.modalDrage_xy .ivu-modal .ivu-form .ivu-form-item {
+  margin-bottom: 18px;
+}
+.ivu-dropdown :focus {
+  box-shadow: 0 0 0 0;
+}
+.ivu-modal-wrap * {
+  word-break: break-word;
+}
+li {
+  list-style: none;
+}
+/*# sourceMappingURL=common_xy.css.map */

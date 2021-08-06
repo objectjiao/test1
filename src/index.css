@@ -1,0 +1,83 @@
+.ivu-table td {
+  height: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  line-height: 16px;
+}
+.ivu-table-cell {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.dnc-toolbar-btns {
+  text-align: right;
+}
+.mr3 {
+  margin-right: 3px;
+}
+.mr3 .ivu-tooltip .ivu-btn {
+  width: 50px;
+  border-radius: 0;
+  border-left-color: rgba(0, 0, 0, 0);
+}
+.mr3 .ivu-tooltip .ivu-btn:hover {
+  border-color: #57a3f3 !important;
+}
+.mr3 .ivu-tooltip:first-child .ivu-btn {
+  border-bottom-left-radius: 4px;
+  border-top-left-radius: 4px;
+  border-left-color: #dcdee2;
+}
+.mr3 .ivu-tooltip:last-child .ivu-btn {
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+.ml3 {
+  margin-left: 3px;
+}
+.pad10 {
+  padding: 10px;
+}
+.txt-primary {
+  color: #2d8cf0;
+}
+.txt-primary-light {
+  color: #5cadff;
+}
+.txt-primary-dark {
+  color: #2b85e4;
+}
+.txt-success {
+  color: #19be6b;
+}
+.txt-info {
+  color: #2db7f5;
+}
+.txt-warning {
+  color: #ff9900;
+}
+.txt-error {
+  color: #ed4014;
+}
+.txt-danger {
+  color: #df3308;
+}
+.txt-success {
+  color: #19be6b;
+}
+.txt-success {
+  color: #19be6b;
+}
+.txt-success {
+  color: #19be6b;
+}
+.table-row-disabled {
+  background-color: #f7f7f7;
+  color: #ccc;
+}
+.text-left {
+  text-align: left !important;
+}
+.dropdown-tree {
+  line-height: 20px;
+}
+/*# sourceMappingURL=index.css.map */
